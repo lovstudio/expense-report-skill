@@ -1,6 +1,6 @@
 ---
 name: lovstudio:expense-report
-category: Office Automation
+category: Finance
 tagline: "Invoice images/text → categorized Excel expense report."
 description: >
   Extract invoice data from images or text descriptions and generate a
