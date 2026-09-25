@@ -14,13 +14,15 @@ license: MIT
 compatibility: >
   Requires Python 3.8+ and openpyxl (`pip install openpyxl`).
   Cross-platform: macOS, Windows, Linux.
+depends_on:
+  - lov-branding-consistency
 metadata:
   author: contributors
-  version: "0.2.0"
+  version: "0.2.1"
   tags: invoice expense report reimbursement excel categorize
 ---
 
-# expense-report — Invoice → Categorized Excel
+# 报销管家 · Expense Assistant
 
 Extract invoice information from images or text, classify expenses, and generate
 a professional Excel report with subtotals per category.
